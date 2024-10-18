@@ -11,4 +11,14 @@ A mobile application for check-in and booking appointments with health care clin
 
 ##Clone the repository:
    ```bash
-   git clone https://github.com/kacnika/Patient-chec-in-project.git
+   git clone https://github.com/kacnika/Patient-check-in-project.git
+
+## directory
+cd Patient-check-in-project
+
+## Install dependencies
+pip install -r requirements.txt
+
+
+
+python main.py
