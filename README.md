@@ -1,5 +1,6 @@
 # Patient-check-in-project
-A mobile application for check-in and booking appointments with health care clinics. It enhancing the efficiency of patient check-ins by reducing average wait times and improving the patient experience.
+This Patient Check-In and Booking application create to address the challenges of the patient check-in and booking processes. It allows patients to check the appointments, make booking and check-in without needing to interaction directly with clinic staff.  Therefore this appilcation will be designed with multi-languages that including 5 different languages (English, Mandarin, Khmer, Veitname, France). This project aims to reduce waiting times at the clinic and also enable patients to book appointments online in their preferred timelines and languages. 
+
 
 
 ## Feature
