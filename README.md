@@ -9,16 +9,13 @@ A mobile application for check-in and booking appointments with health care clin
 - Feature 4: protect sensitive information for user
 
 
-##Clone the repository:
+## Clone the repository:
    ```bash
    git clone https://github.com/kacnika/Patient-check-in-project.git
 
-## directory
+
 cd Patient-check-in-project
 
-## Install dependencies
 pip install -r requirements.txt
-
-
 
 python main.py
